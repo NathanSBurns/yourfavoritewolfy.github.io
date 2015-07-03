@@ -208,7 +208,7 @@ p {
 }
 
 #yt_link {
-	float: none;
+	float: right;
 	margin-left: 5%;
 	font-size: 18px;
 	text-align: justify;
