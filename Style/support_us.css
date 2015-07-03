@@ -70,6 +70,11 @@ p {
 	font-size: 18px;
 }
 
+header {
+	padding-top: 20px;
+	padding-bottom: 100px;
+}
+
 #wrapper {
 	width: 980px;
 	margin-top: 10px;
@@ -144,7 +149,7 @@ p {
 .nav_bar_tabs {
 	text-decoration: none;
 	padding-top: 5px;
-	padding-left: 61px;
+	padding-left: 64px;
 	font-size: 23px;
 }
 
@@ -164,49 +169,10 @@ p {
 	background-color: rgba(0, 0, 0, 0.35);
 }
 
-#autoCheckDiv {
-	width: 100px;
-	margin-top: 15px;
-	background-color: rgba(0, 0, 0, 0.75);
-  	color: white;
-	border-radius: 5px;
-	border: 5px solid black;
-}
-
-#audioPlayer {
-	margin-bottom: -16px;
-  	color: white;
-	border-radius: 10px;
-	border: 5px solid black;
-}
-
-#currentTrack {
-	background-color: rgba(0, 0, 0, 0.75);
-  	color: white;
-	border-radius: 5px;
-	border: 5px solid black;
-}
-
-#currentTrack b {
-	color: red;
-}
-
-#gallery {
-	float: left;
-	padding-top: 45px;
-}
-
-
 #gallery_wrapper {
 	width: 500px;
-	height: 380px;
+	height: 200px;
 	overflow: hidden;
-}
-
-#gallery img {
-	width: 500px;
-	padding-bottom: 25px;
-	position: absolute;
 }
 
 #main_bar_tabs {
@@ -214,31 +180,6 @@ p {
 	display: block;
 	position: relative;
 }
-
-#playlist {
-	margin-left: auto;
-	margin-right: auto;
-	width: 410px;
-	padding-top: 25px;
-	padding-left: 25px;
-	padding-bottom: 25px;
-}
-
-#playlist #controls{
-	width: 392px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-#playlist input {
-	background-color: rgba(0, 0, 0, 0.75);
-  	color: white;
-	border-radius: 5px;
-	border: 5px solid black;
-	padding-top: 8px;
-	padding-bottom: 8px;
-}
-
 
 #white_body {
 	float: left;
