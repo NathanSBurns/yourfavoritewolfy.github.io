@@ -139,7 +139,7 @@ p {
 }
 
 #bar_wrapper {
-	padding-top: 2;
+	padding-top: 2px;
 	width: 986px;
 	height: 44px;
 	overflow: hidden;
