@@ -147,7 +147,6 @@ p {
 #nav_bar {
 	float: none;
 	position: absolute;
-	margin-top: -3px;
 	z-index: -1;
 }
 
