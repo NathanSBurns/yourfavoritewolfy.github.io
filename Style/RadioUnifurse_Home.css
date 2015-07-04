@@ -141,6 +141,7 @@ p {
 	padding-top: 2px;
 	width: 986px;
 	height: 40px;
+	overflow: hidden;
 }
 #nav_bar {
 	float: none;
