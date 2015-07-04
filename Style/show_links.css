@@ -104,7 +104,7 @@ p {
 
 #characters_small {
 	margin-left: 72%;
-	margin-bottom: -23px;
+	margin-bottom: -25px;
 	position: relative;
 }
 
@@ -146,8 +146,10 @@ p {
 }
 
 #bar_wrapper {
+	padding-top: 2px;
 	width: 986px;
 	height: 44px;
+	overflow: hidden;
 }
 #nav_bar {
 	float: none;
@@ -165,8 +167,8 @@ p {
 
 .nav_bar_tabs a{
 	text-decoration: none;
-	padding-top: 7px;
-	padding-bottom: 7px;
+	padding-top: 27px;
+	padding-bottom: 27px;
 	padding-left: 9px;
 	padding-right: 9px;
 	margin-right: 60px;
@@ -190,7 +192,6 @@ p {
 	background-color: white;
 	width: 980px;
 	height: 600px;
-	margin-top: -4px;
 	font-weight: bold;
 }
 
