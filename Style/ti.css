@@ -139,8 +139,10 @@ p {
 }
 
 #bar_wrapper {
+	padding-top: 2;
 	width: 986px;
 	height: 44px;
+	overflow: hidden;
 }
 #nav_bar {
 	float: none;
