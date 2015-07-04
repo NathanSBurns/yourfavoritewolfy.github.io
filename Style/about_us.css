@@ -101,7 +101,7 @@ form input {
 
 #characters_small {
 	margin-left: 72%;
-	margin-bottom: -23px;
+	margin-bottom: -25px;
 	position: relative;
 }
 
@@ -143,8 +143,10 @@ form input {
 }
 
 #bar_wrapper {
+	padding-top: 2;
 	width: 986px;
-	height: 44px;
+	height: 40px;
+	overflow: hidden;
 }
 #nav_bar {
 	float: none;
@@ -187,7 +189,6 @@ form input {
 	background-color: white;
 	width: 980px;
 	height: auto;
-	margin-top: -4px;
 }
 
 #about {
