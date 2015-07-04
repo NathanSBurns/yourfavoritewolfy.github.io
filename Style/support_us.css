@@ -138,7 +138,8 @@ header {
 #bar_wrapper {
 	padding-top: 2px;
 	width: 986px;
-	height: hidden;
+	height: 40;
+	overflow: hidden;
 }
 #nav_bar {
 	float: none;
