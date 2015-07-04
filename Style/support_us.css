@@ -73,6 +73,8 @@ p {
 header {
 	padding-top: 20px;
 	padding-bottom: 20px;
+	font-family: 'Arimo', sans-serif;
+	font-size: 18px;
 }
 
 #wrapper {
