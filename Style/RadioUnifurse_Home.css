@@ -97,7 +97,7 @@ p {
 
 #characters_small {
 	margin-left: 72%;
-	margin-bottom: -23px;
+	margin-bottom: -25px;
 	position: relative;
 }
 #RF_Ad {
@@ -138,6 +138,7 @@ p {
 }
 
 #bar_wrapper {
+	padding-top: 2px;
 	width: 986px;
 	height: 40px;
 }
